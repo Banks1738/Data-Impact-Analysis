@@ -1,6 +1,7 @@
 # Data-Impact-Analysis
 
 Impact Analysis quantifies the risks inherent in collecting and owning the data. In this project, I will document the data impact so that other parts of the organization can assess the legal and regulatory risk in collecting and using the data.
+
 ## Acknowledgements
 
  - Assessment 4_Examples
